@@ -50,7 +50,7 @@ Assignment No : 5<br>
 <br>
 **Computer Vision**<br>
 Completed: NO<br>
-Uncomplete: All,br>
+Uncomplete: All<br>
 <br>
 **Natural Language Processing**<br>
 Completed: NO<br>
