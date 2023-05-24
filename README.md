@@ -1,57 +1,57 @@
 # Final_Assignment <br>
 **Python:**<br>
-Completed: 
-Assignment No : 1
-Assignment No : 2
-Assignment No : 3
-Assignment No : 4
-Assignment No : 5
-Assignment No : 6
-Assignment No : 7
-Assignment No : 8
-Assignment No : 10
-
-Uncomplete: 
-Assignment No : 9
-
-**Statistics:**
-Completed : ALL 
-
-**Machine Learning:**
-Intermediate
-Completed:
-Assignment No : 1
-Assignment No : 2
-Assignment No : 4
-Assignment No : 5
-Assignment No : 7
-
-Uncomplete:
-Assignment No : 3
-Assignment No : 6
-Assignment No : 8
-assignment No : 9
-Assignment NO : 10
-
-Advanced
-Completed : No
-
-Uncomplete : All
-
-**Deep Learning**
-Completed:
-Assignment No : 1
-Assignment No : 3
-
-Uncomplete:
-Assignment No : 2
-Assignment No : 4
-Assignment No : 5
-
-**Computer Vision**
-Completed: NO
-Uncomplete: All
-
-**Natural Language Processing**
-Completed: NO
-Uncomplete: ALL
+Completed: <br>
+Assignment No : 1<br>
+Assignment No : 2<br>
+Assignment No : 3<br>
+Assignment No : 4<br>
+Assignment No : 5<br>
+Assignment No : 6<br>
+Assignment No : 7<br>
+Assignment No : 8<br>
+Assignment No : 10<br>
+<br>
+Uncomplete: <br>
+Assignment No : 9<br>
+<br>
+**Statistics:**<br>
+Completed : ALL <br>
+<br>
+**Machine Learning:**<br>
+Intermediate<br>
+Completed:<br>
+Assignment No : 1<br>
+Assignment No : 2<br>
+Assignment No : 4<br>
+Assignment No : 5<br>
+Assignment No : 7<br>
+<br>
+Uncomplete:<br>
+Assignment No : 3<br>
+Assignment No : 6<br>
+Assignment No : 8<br>
+assignment No : 9<br>
+Assignment NO : 10<br>
+<br>
+Advanced<br>
+Completed : No<br>
+<br>
+Uncomplete : All<br>
+<br>
+**Deep Learning**<br>
+Completed:<br>
+Assignment No : 1<br>
+Assignment No : 3<br>
+<br>
+Uncomplete:<br>
+Assignment No : 2<br>
+Assignment No : 4<br>
+Assignment No : 5<br>
+<br>
+**Computer Vision**<br>
+Completed: NO<br>
+Uncomplete: All,br>
+<br>
+**Natural Language Processing**<br>
+Completed: NO<br>
+Uncomplete: ALL<br>
