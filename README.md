@@ -17,7 +17,22 @@ Uncomplete: No <br>
 <br>
 
 **Statistics:**<br>
-Completed : ALL <br>
+Completed : <br>
+Assignment No : 1<br>
+Assignment No : 2<br>
+Assignment No : 3<br>
+Assignment No : 4<br>
+Assignment No : 5<br>
+Assignment No : 6<br>
+Assignment No : 7<br>
+Assignment No : 8<br>
+Assignment No : 9<br>
+Assignment No : 10<br>
+Assignment No : 11<br>
+Assignment No : 12<br>
+<br>
+
+Uncomplete: No <br>
 <br>
 
 **Machine Learning:**<br>
