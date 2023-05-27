@@ -12,12 +12,14 @@ Assignment No : 8<br>
 Assignment No : 9<br>
 Assignment No : 10<br>
 <br>
-Uncomplete: No <br>
 
+Uncomplete: No <br>
 <br>
+
 **Statistics:**<br>
 Completed : ALL <br>
 <br>
+
 **Machine Learning:**<br>
 Intermediate<br>
 Completed:<br>
@@ -39,6 +41,7 @@ Completed : No<br>
 <br>
 Uncomplete : All<br>
 <br>
+
 **Deep Learning**<br>
 Completed:<br>
 Assignment No : 1<br>
