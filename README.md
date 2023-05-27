@@ -42,10 +42,10 @@ Uncomplete : All<br>
 **Deep Learning**<br>
 Completed:<br>
 Assignment No : 1<br>
+Assignment No : 2<br>
 Assignment No : 3<br>
 <br>
 Uncomplete:<br>
-Assignment No : 2<br>
 Assignment No : 4<br>
 Assignment No : 5<br>
 <br>
